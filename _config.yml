@@ -31,8 +31,8 @@ use_authors: true #Set this to false to disable showing post authors
 
 brand_logo: logo.png
 brand_name: Odin
-header: How can we help you?
-subheader: Support and documentation for Odin
+header: Connect Study
+subheader: The Connect study is a new prospective cohort of 200,000 adults in the United States designed to further investigate the etiology of cancer and its outcomes.
 
 meta_image: odin-meta.png
 
@@ -55,7 +55,7 @@ nav_item_two_link: https://twitter.com/TheTeaGuns
 nav_item_three: #
 nav_item_three_link: #
 
-nav_button: Return to Odin Home
+nav_button: Return to Connect Home
 nav_button_link: https://teaguns.github.io/odin/
 
 # More Help
